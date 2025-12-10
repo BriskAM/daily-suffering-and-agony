@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "74cb8fb80517c284",
+    "type": "split",
+    "children": [
+      {
+        "id": "872db2b072daa959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0a8a1d291a5891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methods/collections/counter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "counter"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d45a16be493b7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d32935733467571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cebdccc7e41cdadc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be85750bd68d224e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "000a4f09697f343c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "280dc56760a9323e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b986a83e86abc77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e436ceab53f41366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "solutions/arrays/group-anagrams.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for group-anagrams"
+            }
+          },
+          {
+            "id": "98b01f3c00f4e3a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "solutions/arrays/group-anagrams.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from group-anagrams"
+            }
+          },
+          {
+            "id": "6b0a8603268454cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f34e11444d0bbc36",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "503f3d4b87680faa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "solutions/arrays/group-anagrams.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of group-anagrams"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fb0a8a1d291a5891",
+  "lastOpenFiles": [
+    "notes/techniques/floyds-cycle-detection.md",
+    "solutions/arrays/find-the-duplicate-number.md",
+    "notes/techniques/auxiliary-stack.md",
+    "solutions/stack-queue/min-stack.md",
+    "notes/techniques/prefix-suffix-products.md",
+    "notes/techniques/stack-matching.md",
+    "solutions/stack-queue/valid-parentheses.md",
+    "notes/techniques/matrix-validation.md",
+    "notes/techniques/length-prefix-encoding.md",
+    "notes/techniques/in-place-computation.md",
+    "notes/techniques/hashset-lookup.md",
+    "notes/techniques/hashmap-complement.md",
+    "notes/techniques/grouping-by-key.md",
+    "notes/techniques/frequency-count.md",
+    "solutions/arrays/longest-consecutive-sequence.md",
+    "solutions/arrays/top-k-frequent-elements.md",
+    "solutions/arrays/group-anagrams.md",
+    "solutions/arrays/product-except-self.md",
+    "solutions/arrays/two-sum.md",
+    "solutions/arrays/valid-anagram.md",
+    "solutions/arrays/valid-sudoku.md",
+    "methods/built-ins/set.md",
+    "methods/collections/defaultdict.md",
+    "methods/built-ins/string-slicing.md",
+    "neetcode-150.md",
+    "methods/collections/counter.md",
+    "techniques"
+  ]
+}
