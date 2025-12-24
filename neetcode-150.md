@@ -37,11 +37,11 @@ A curated list of 150 LeetCode problems organized by topic. Track your progress 
 ---
 
 ## Stack (7)
-- [ ] Valid Parentheses - #20
-- [ ] Min Stack - #155
-- [ ] Evaluate Reverse Polish Notation - #150
+- [x] [[solutions/stack-queue/valid-parentheses|Valid Parentheses]] - #20
+- [x] [[solutions/stack-queue/min-stack|Min Stack]] - #155
+- [x] [[solutions/stack-queue/evaluate-reverse-polish-notation|Evaluate Reverse Polish Notation]] - #150
 - [ ] Generate Parentheses - #22
-- [ ] Daily Temperatures - #739
+- [x] [[solutions/stack-queue/daily-temperatures|Daily Temperatures]] - #739
 - [ ] Car Fleet - #853
 - [ ] Largest Rectangle in Histogram - #84
 
@@ -233,7 +233,7 @@ A curated list of 150 LeetCode problems organized by topic. Track your progress 
 | Arrays & Hashing | 4 | 9 |
 | Two Pointers | 0 | 5 |
 | Sliding Window | 0 | 6 |
-| Stack | 0 | 7 |
+| Stack | 4 | 7 |
 | Binary Search | 0 | 7 |
 | Linked List | 0 | 11 |
 | Trees | 0 | 15 |
@@ -248,7 +248,7 @@ A curated list of 150 LeetCode problems organized by topic. Track your progress 
 | Intervals | 0 | 6 |
 | Math & Geometry | 0 | 8 |
 | Bit Manipulation | 0 | 7 |
-| **Total** | **4** | **150** |
+| **Total** | **8** | **150** |
 
 ---
 

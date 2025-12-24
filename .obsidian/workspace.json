@@ -185,6 +185,8 @@
   },
   "active": "fb0a8a1d291a5891",
   "lastOpenFiles": [
+    "notes/techniques/postfix-evaluation.md",
+    "solutions/stack-queue/evaluate-reverse-polish-notation.md",
     "notes/techniques/floyds-cycle-detection.md",
     "solutions/arrays/find-the-duplicate-number.md",
     "notes/techniques/auxiliary-stack.md",
@@ -209,8 +211,6 @@
     "methods/built-ins/set.md",
     "methods/collections/defaultdict.md",
     "methods/built-ins/string-slicing.md",
-    "neetcode-150.md",
-    "methods/collections/counter.md",
     "techniques"
   ]
 }
