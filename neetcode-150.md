@@ -18,9 +18,9 @@ A curated list of 150 LeetCode problems organized by topic. Track your progress 
 ---
 
 ## Two Pointers (5)
-- [ ] Valid Palindrome - #125
-- [ ] Two Sum II - #167
-- [ ] 3Sum - #15
+- [x] [[solutions/two-pointers/valid-palindrome|Valid Palindrome]] - #125
+- [x] [[solutions/two-pointers/two-sum-ii|Two Sum II]] - #167
+- [x] [[solutions/two-pointers/3sum|3Sum]] - #15
 - [ ] Container With Most Water - #11
 - [ ] Trapping Rain Water - #42
 
@@ -42,8 +42,8 @@ A curated list of 150 LeetCode problems organized by topic. Track your progress 
 - [x] [[solutions/stack-queue/evaluate-reverse-polish-notation|Evaluate Reverse Polish Notation]] - #150
 - [ ] Generate Parentheses - #22
 - [x] [[solutions/stack-queue/daily-temperatures|Daily Temperatures]] - #739
-- [ ] Car Fleet - #853
-- [ ] Largest Rectangle in Histogram - #84
+- [x] [[solutions/stack-queue/car-fleet|Car Fleet]] - #853
+- [x] [[solutions/stack-queue/largest-rectangle-in-histogram|Largest Rectangle in Histogram]] - #84
 
 ---
 
@@ -231,9 +231,9 @@ A curated list of 150 LeetCode problems organized by topic. Track your progress 
 | Category | Completed | Total |
 |----------|-----------|-------|
 | Arrays & Hashing | 4 | 9 |
-| Two Pointers | 0 | 5 |
+| Two Pointers | 3 | 5 |
 | Sliding Window | 0 | 6 |
-| Stack | 4 | 7 |
+| Stack | 6 | 7 |
 | Binary Search | 0 | 7 |
 | Linked List | 0 | 11 |
 | Trees | 0 | 15 |
@@ -248,7 +248,7 @@ A curated list of 150 LeetCode problems organized by topic. Track your progress 
 | Intervals | 0 | 6 |
 | Math & Geometry | 0 | 8 |
 | Bit Manipulation | 0 | 7 |
-| **Total** | **8** | **150** |
+| **Total** | **13** | **150** |
 
 ---
 
