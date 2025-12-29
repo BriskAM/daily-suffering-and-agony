@@ -21,6 +21,12 @@
 - [[solutions/two-pointers/two-sum-ii]] - Two pointers on sorted array
 - [[solutions/two-pointers/3sum]] - Fix one, two-pointer the rest
 
+### Linked Lists
+- [[solutions/linked-lists/reverse-linked-list]] - Three-pointer iterative reversal
+- [[solutions/linked-lists/merge-two-sorted-lists]] - Dummy node + two-pointer merge
+- [[solutions/linked-lists/linked-list-cycle]] - Floyd's cycle detection (two approaches)
+
+
 ---
 
 ## Techniques
@@ -30,6 +36,8 @@
 - [[techniques/frequency-count]] - Count occurrences with Counter
 - [[techniques/grouping-by-key]] - Categorize elements by computed key
 - [[techniques/two-pointers]] - Compare/traverse from multiple positions
+- [[techniques/pointer-manipulation]] - Manage multiple pointers in linked lists
+- [[techniques/dummy-node-pattern]] - Simplify edge cases with sentinel node
 
 ---
 
@@ -50,6 +58,6 @@
 
 | Metric | Count |
 |--------|-------|
-| Problems Solved | 13 |
-| Techniques Documented | 5 |
+| Problems Solved | 16 |
+| Techniques Documented | 7 |
 | Methods Documented | 5 |
