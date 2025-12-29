@@ -86,8 +86,8 @@ Each element is pushed exactly once and popped at most once, giving O(n) time co
 ## Problems Using This Technique
 
 - [[solutions/stack-queue/daily-temperatures]] - Classic NGE with distance
+- [[solutions/stack-queue/largest-rectangle-in-histogram]] - NSE from both sides for span
 - [[solutions/stack-queue/next-greater-element-i]] - Basic NGE
-- [[solutions/stack-queue/largest-rectangle-in-histogram]] - Both NSE and PSE
 - [[solutions/stack-queue/trapping-rain-water]] - Max from both sides
 - [[solutions/stack-queue/online-stock-span]] - Previous greater element
 
