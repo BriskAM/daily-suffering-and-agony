@@ -26,6 +26,8 @@
 - [[solutions/linked-lists/merge-two-sorted-lists]] - Dummy node + two-pointer merge
 - [[solutions/linked-lists/linked-list-cycle]] - Floyd's cycle detection (two approaches)
 - [[solutions/linked-lists/reorder-list]] - Multi-step: find middle, reverse, merge
+- [[solutions/linked-lists/remove-nth-from-end]] - Two-pointer with n-gap + dummy node
+- [[solutions/linked-lists/add-two-numbers]] - Build list with carry arithmetic
 
 
 ---
@@ -59,6 +61,6 @@
 
 | Metric | Count |
 |--------|-------|
-| Problems Solved | 17 |
+| Problems Solved | 19 |
 | Techniques Documented | 7 |
 | Methods Documented | 5 |

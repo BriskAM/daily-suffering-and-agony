@@ -91,6 +91,8 @@ def mergeLists(list1, list2):
 - [[solutions/linked-lists/merge-two-sorted-lists]] - Tail pointer manipulation
 - [[solutions/linked-lists/linked-list-cycle]] - Floyd's cycle detection
 - [[solutions/linked-lists/reorder-list]] - Combines multiple patterns
+- [[solutions/linked-lists/remove-nth-from-end]] - Two-pointer with n-gap
+- [[solutions/linked-lists/add-two-numbers]] - Build list with tail pointer
 
 ## Related Techniques
 

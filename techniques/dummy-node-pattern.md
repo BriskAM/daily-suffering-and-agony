@@ -72,7 +72,8 @@ return dummy.next
 ## Problems Using This Technique
 
 - [[solutions/linked-lists/merge-two-sorted-lists]] - Classic dummy node usage
-- [[solutions/linked-lists/remove-nth-node-from-end]] - Simplifies head removal
+- [[solutions/linked-lists/remove-nth-from-end]] - Simplifies head removal
+- [[solutions/linked-lists/add-two-numbers]] - Building new list with carry
 - [[solutions/linked-lists/partition-list]] - Building two lists
 
 ## Related Techniques
