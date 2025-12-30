@@ -25,6 +25,7 @@
 - [[solutions/linked-lists/reverse-linked-list]] - Three-pointer iterative reversal
 - [[solutions/linked-lists/merge-two-sorted-lists]] - Dummy node + two-pointer merge
 - [[solutions/linked-lists/linked-list-cycle]] - Floyd's cycle detection (two approaches)
+- [[solutions/linked-lists/reorder-list]] - Multi-step: find middle, reverse, merge
 
 
 ---
@@ -58,6 +59,6 @@
 
 | Metric | Count |
 |--------|-------|
-| Problems Solved | 16 |
+| Problems Solved | 17 |
 | Techniques Documented | 7 |
 | Methods Documented | 5 |

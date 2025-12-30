@@ -90,6 +90,7 @@ def mergeLists(list1, list2):
 - [[solutions/linked-lists/reverse-linked-list]] - Three-pointer reversal
 - [[solutions/linked-lists/merge-two-sorted-lists]] - Tail pointer manipulation
 - [[solutions/linked-lists/linked-list-cycle]] - Floyd's cycle detection
+- [[solutions/linked-lists/reorder-list]] - Combines multiple patterns
 
 ## Related Techniques
 
