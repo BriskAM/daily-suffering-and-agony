@@ -75,6 +75,7 @@ return dummy.next
 - [[solutions/linked-lists/remove-nth-from-end]] - Simplifies head removal
 - [[solutions/linked-lists/add-two-numbers]] - Building new list with carry
 - [[solutions/linked-lists/partition-list]] - Building two lists
+- [[solutions/linked-lists/lru-cache]] - Sentinel head/tail for O(1) operations
 
 ## Related Techniques
 
