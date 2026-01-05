@@ -16,11 +16,16 @@
 ### Strings (1)
 - [[solutions/strings/encode-decode-strings]] - Length-prefixed encoding
 
-### Two Pointers (4)
+### Two Pointers (5)
 - [[solutions/two-pointers/valid-palindrome]] - Compare from both ends
 - [[solutions/two-pointers/two-sum-ii]] - Two pointers on sorted array
 - [[solutions/two-pointers/3sum]] - Fix one, two-pointer the rest
 - [[solutions/two-pointers/container-with-most-water]] - Shrink from widest, move shorter pointer
+- [[solutions/two-pointers/trapping-rain-water]] - Track left/right max, process smaller side
+
+### Binary Search (2)
+- [[solutions/binary-search/binary-search]] - Classic O(log n) search in sorted array
+- [[solutions/binary-search/search-2d-matrix]] - Treat matrix as flattened sorted array
 
 ### Stack & Queue (6)
 - [[solutions/stack-queue/valid-parentheses]] - Bracket matching with stack
@@ -43,10 +48,43 @@
 
 ## Techniques
 
-- [[techniques/two-pointers]] - Compare/traverse from multiple positions
+### Linked List Techniques
 - [[techniques/pointer-manipulation]] - Manage multiple pointers in linked lists
 - [[techniques/dummy-node-pattern]] - Simplify edge cases with sentinel node
 - [[techniques/doubly-linked-list-hashmap]] - O(1) lookup + ordered operations
+- [[notes/techniques/floyds-cycle-detection]] - Detect cycles with fast/slow pointers
+- [[notes/techniques/fast-slow-pointers]] - Tortoise and hare for cycles/middles
+
+### Two Pointers & Traversal
+- [[techniques/two-pointers]] - Compare/traverse from multiple positions
+- [[notes/techniques/two-pointers]] - Additional two-pointer patterns
+
+### Hash-Based Techniques
+- [[notes/techniques/hashmap-complement]] - Find pairs using complement lookup
+- [[notes/techniques/hashset-lookup]] - O(1) membership testing
+- [[notes/techniques/frequency-count]] - Count occurrences with Counter
+- [[notes/techniques/grouping-by-key]] - Categorize elements by computed key
+
+### Stack Techniques
+- [[notes/techniques/stack-matching]] - Match pairs using stack (brackets, etc.)
+- [[notes/techniques/auxiliary-stack]] - Track min/max with helper stack
+- [[notes/techniques/monotonic-stack]] - Maintain increasing/decreasing order
+- [[notes/techniques/postfix-evaluation]] - Evaluate RPN expressions
+
+### Array Techniques
+- [[notes/techniques/prefix-suffix-products]] - Compute without division
+- [[notes/techniques/matrix-validation]] - Validate rows/cols/subgrids
+- [[notes/techniques/in-place-computation]] - Modify array without extra space
+
+### Greedy & Sorting Techniques
+- [[notes/techniques/sorting-problems]] - Sort to enable sequential processing
+- [[notes/techniques/greedy-comparison]] - Compare with running max/min
+
+### Search Techniques
+- [[notes/techniques/binary-search]] - O(log n) search on sorted/monotonic data
+
+### String Techniques
+- [[notes/techniques/length-prefix-encoding]] - Encode/decode with length prefix
 
 ---
 
@@ -70,6 +108,6 @@
 
 | Metric | Count |
 |--------|-------|
-| Problems Solved | 27 |
-| Techniques Documented | 4 |
+| Problems Solved | 30 |
+| Techniques Documented | 22 |
 | Methods Documented | 8 |
